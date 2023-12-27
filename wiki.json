@@ -1,0 +1,19 @@
+[
+    {
+      name: "Maria Skłodowska-Curie",
+      id: "szV5sdG",
+      profession: " physicist and chemist",
+      awards: "4",
+      description:
+        "(Nobel Prize in Physics, Nobel Prize in Chemistry, Davy Medal,Matteucci Medal)",
+      discovered: "polonium (chemical element)",
+    },
+    {
+      name: "Katsuko Saruhashi",
+      id: "YfeOqp2",
+      profession: " geochemist",
+      awards: "2",
+      description: "(Miyake Prize for geochemistry, Tanaka Prize)",
+      discovered: "a method for measuring carbon dioxide in seawater",
+    },
+  ]
